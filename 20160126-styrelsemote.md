@@ -42,3 +42,13 @@ Det kommer att anordnas fem tjejhack och fem tekniktorsdagar under första halv�
 
 ## 6 Nästa möte
 2016-02-21 20:00, kallelse skickas ut av Karl-Henrik.
+
+
+
+Emil Österlund, Ordförande
+
+
+
+Leo Thorsell, sekreterare
+
+
