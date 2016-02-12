@@ -9,8 +9,8 @@ Emil Österlund, Leo Thorsell, Ted Wallin, Joakim Carlsson, Sverker Norlander, K
 Ordförande gav en muntlig sammanfattning av hacket “all things flying”. Ca 30 deltagare, och alla var nöjda med tillställningen.
 ## 3b Framtidsmuseet
 Framtidsmuseet i Borlänge kommer att bygga ett makerspace och ser gärna att Daladevelop är med och annordnar hack tillsammans med Framtidsmusseet.
-## 3c Kulturhuset
-Kulturhuset vill dra igång ett makerspace, gärna tillsammans med daladevelop.
+## 3c Kulturhuset i Falun
+Kulturhuset i Falun vill dra igång ett makerspace, gärna tillsammans med daladevelop.
 ## 3d Ekonomi
 Saldot på kontot är 16285kr
 
