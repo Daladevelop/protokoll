@@ -2,7 +2,7 @@
 2016-04-27 20:00-20:30 - Google Hangout
 
 ## Deltagare
-Emil Österlund, Ted Wallin, Joakim Carlsson, Sverker Norlander, Fredrik Berggren, Jonatan
+Emil Österlund, Ted Wallin, Joakim Carlsson, Sverker Norlander, Fredrik Berggren, Jonatan Erlandsson
 
 # 3 Rapporter
 ## 3a Barnhack / tjejhack
