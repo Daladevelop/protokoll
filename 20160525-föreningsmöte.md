@@ -1,35 +1,35 @@
-# PROTOKOLL Föreningsmöte 2016-05
+# PROTOKOLL FÃ¶reningsmÃ¶te 2016-05
 2016-05-25 20:00-21:15 - Google Hangout
 
 ## Deltagare
-Emil Österlund, Leo Thorsell, Ted Wallin, Joakim Carlsson, Sverker Norlander, Fredrik Berggren, Jonatan
+Emil Ã–sterlund, Leo Thorsell, Ted Wallin, Joakim Carlsson, Sverker Norlander, Fredrik Berggren, Jonatan Gezelius, Em Haen, Carl BjÃ¶rknÃ¤s
 
 # 3 Rapporter
 ## 3a Barnhack / tjejhack
-Emil och Ina har annordnat sista hack:et för vårterminen. Hacken har varit välbesökta. Både Emil och Ina har flaggat för de kanske inte orka dra i barnhack och tjejhack i samma utsträckning i höst.
+Emil och Ina har annordnat sista hack:et fÃ¶r vÃ¥rterminen. Hacken har varit vÃ¤lbesÃ¶kta. BÃ¥de Emil och Ina har flaggat fÃ¶r de kanske inte orka dra i barnhack och tjejhack i samma utstrÃ¤ckning i hÃ¶st.
 ## 3b Ekonomi
-Sverker meddelar att saldot på kontot är 19557kr, dock är lite mer pengar på väg som Karl-Henrik swishat till Sverker. Uppskattningsvis totalt 20kkr.
+Sverker meddelar att saldot pÃ¥ kontot Ã¤r 19557kr, dock Ã¤r lite mer pengar pÃ¥ vÃ¤g som Karl-Henrik swishat till Sverker. Uppskattningsvis totalt 20kkr.
 ## 3c Soltorgshack
-Väldigt få deltagare. Informationen kom ut för sent och det råder samsyn om att vi måste bli bättre på att informera.
+VÃ¤ldigt fÃ¥ deltagare. Informationen kom ut fÃ¶r sent och det rÃ¥der samsyn om att vi mÃ¥ste bli bÃ¤ttre pÃ¥ att informera.
 # 4 Kommande arrangemang
 ## 4a Minecraftlan El Giganto
-Förening beslutar att en arbetsgrupp ska tas fram för att ta fram förutsättningarna att genomföra aktiviteten. Preliminärt datum 2016-10-29. Arbetsgruppen består idag enbart av Emil, men kommer utökas med fler personer när offerten om lugnets lokaler kommer.
+FÃ¶rening beslutar att en arbetsgrupp ska tas fram fÃ¶r att ta fram fÃ¶rutsÃ¤ttningarna att genomfÃ¶ra aktiviteten. PreliminÃ¤rt datum 2016-10-29. Arbetsgruppen bestÃ¥r idag enbart av Emil, men kommer utÃ¶kas med fler personer nÃ¤r offerten om lugnets lokaler kommer.
 ## 4b Dagresa till Stockholm
 Inget intresse just nu att driva aktiviteten. Emil skriver ner de kontaktpersoner och tankar han har om arrangemanget.
 ## 4c Daladevelop projektet
-Omröstning skedde och Ted mailar ut resultatet.
-## 4d Nästa hack
-Emil och Jonatan arbetar med att ta fram ett IoT/elektronik-hack till hösten.
-## 4e Övrigt på gång
-Leo och Fredrik har planer på en mini utbildningsserier för mellanstadiebarn tillsammans med Säters bibliotek.
-# 5 Övriga frågor
+OmrÃ¶stning skedde och Ted mailar ut resultatet.
+## 4d NÃ¤sta hack
+Emil och Jonatan arbetar med att ta fram ett IoT/elektronik-hack till hÃ¶sten.
+## 4e Ã–vrigt pÃ¥ gÃ¥ng
+Leo och Fredrik har planer pÃ¥ en mini utbildningsserier fÃ¶r mellanstadiebarn tillsammans med SÃ¤ters bibliotek.
+# 5 Ã–vriga frÃ¥gor
 ## 5a Teknikverkstan
-Emil informerar att teknikverkstan med största sannolikhet kommer att läggas ned.
-## 6 Nästa möte
-Emil skickar ut en lista med datum under sommararen. Förhoppningen är att få till en fysiskt möte.
+Emil informerar att teknikverkstan med stÃ¶rsta sannolikhet kommer att lÃ¤ggas ned.
+## 6 NÃ¤sta mÃ¶te
+Emil skickar ut en lista med datum under sommararen. FÃ¶rhoppningen Ã¤r att fÃ¥ till en fysiskt mÃ¶te.
 
 
-Emil Österlund, Ordförande
+Emil Ã–sterlund, OrdfÃ¶rande
 
 
 
