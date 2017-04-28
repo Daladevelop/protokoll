@@ -18,7 +18,7 @@ Leo berättar om robotbygandet som anordnades tillsammans med Säters bibliotek,
 Ordförande har pratat med Soltorg som är intressade av att köra ett hack i soltorgs regi. Ordförande får i uppdrag att köpa in delar till balandsrobotar till hacket. Datumet föreslås till 11 februari. Ordförande tar kontakt med Patrik.
 # 5 Övriga frågor
 ## Riksanslutning
-Föreningen har fått erbjudande om att ansluta sig till Swerock. Styrelsen beslutar att inte ingå i Swerock.
+Föreningen har fått erbjudande om att ansluta sig till Sverok. Styrelsen beslutar att inte ingå i Sverok.
 ## 6 Nästa möte
 16 januari 21:00
 
